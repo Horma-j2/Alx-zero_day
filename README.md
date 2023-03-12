@@ -1,2 +1,1 @@
-my first git
-Updated
+This file is mandatory in projects
